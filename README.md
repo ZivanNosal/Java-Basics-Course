@@ -1,2 +1,3 @@
-# Java-Basics-Course
- internal Tieto training
+# Java for beginners
+
+ Internal Tieto training led by Alena Čepková.
